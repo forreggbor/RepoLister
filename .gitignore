@@ -1,1 +1,5 @@
 /exports/
+/profiles/
+/repos.conf
+/tokens.conf
+/.idea/

@@ -1,6 +1,6 @@
 #!/bin/bash
 # ------------------------------------------------------------
-# RepoLister v4 - GitHub/Gitea RAW URL exporter with full TUI
+# RepoLister v0.1 - GitHub/Gitea RAW URL exporter with full TUI
 # ------------------------------------------------------------
 # DESCRIPTION
 # RepoLister generates lists of RAW file URLs from GitHub or Gitea repos.
@@ -42,7 +42,7 @@
 
 set -euo pipefail
 
-APP_NAME="RepoLister v4"
+APP_NAME="RepoLister"
 BACKTITLE="$APP_NAME"
 STATE_DIR="."
 PROFILES_DIR="$STATE_DIR/profiles"
